@@ -10,7 +10,7 @@
 
 ## 🎯 如何运行 / 下载
 
-- **下载可执行文件 (Windows)**: [前往 Release v1.0.0 页面下载](https://github.com/你的用户名/仓库名/releases/tag/v1.0.0)
+- **下载可执行文件 (Windows)**: [前往 Release v1.0.0 页面下载](https://github.com/dongfanginv/2D-demo/releases/tag/v1.0.0)
 
 
 ## 🛠️ 技术栈
